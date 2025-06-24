@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate full stack developer and aspiring ML/AI engineer actively looking for opportunities to build intelligent and impactful products. I enjoy designing user-centered web experiences, building scalable backend systems, and applying machine learning through hands-on projects and certifications. I thrive in fast-moving, collaborative environments that focus on innovation and purpose-driven work.
+I'm a passionate full stack developer and aspiring ML/AI engineer actively looking for opportunities to build intelligent and impactful products. I enjoy designing user-centered web experiences, building scalable backend systems, and applying machine learning through hands-on projects. I thrive in fast-moving, collaborative environments that focus on innovation and purpose-driven work.
 
 ---
 
