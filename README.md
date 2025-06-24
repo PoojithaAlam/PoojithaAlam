@@ -5,7 +5,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 I'm a passionate full stack developer and aspiring ML/AI engineer actively looking for opportunities to build intelligent and impactful products. I enjoy designing user-centered web experiences, building scalable backend systems, and applying machine learning through hands-on projects. I thrive in fast-moving, collaborative environments that focus on innovation and purpose-driven work.
 
@@ -13,14 +13,15 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
 
 ### 👩‍💻 Tech Stack
 
-| **Frontend**                         | **Backend**                         | **Database & DevOps**             |
-|-------------------------------------|-------------------------------------|-----------------------------------|
-| ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) <br> React.js | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) <br> Java | ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) <br> MySQL |
-| ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular) <br> Angular | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) <br> Python | ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) <br> MongoDB |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) <br> TypeScript | ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js) <br> Node.js | ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis) <br> Redis |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) <br> JavaScript | ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring) <br> Spring | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) <br> Docker |
-| ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5) <br> HTML | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) <br> Next.js | ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws) <br> AWS |
-| ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3) <br> CSS |  | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions) <br> GitHub Actions |
+
+| **Frontend** | **Backend** | **Database & DevOps** |
+|--------------|-------------|------------------------|
+| ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) | ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) |
+| ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) | ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) | ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js) | ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) | ![Spring](https://img.shields.io/badge/Spring-black?style=flat-square&logo=spring) | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
+| ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) | ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws) |
+| ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3) |  | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions) |
 
 ---
 
