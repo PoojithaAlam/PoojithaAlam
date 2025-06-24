@@ -38,13 +38,15 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=flat-square&logo=openai) &nbsp;
 ![Azure AI](https://img.shields.io/badge/Azure_AI-black?style=flat-square&logo=microsoftazure) |
 
-| **Core ML Concepts** |
-|----------------------|
-| Supervised Learning (Linear/Logistic Regression, Decision Trees, Ensemble Methods)  
-Neural Networks (Multiclass Classification, Built from Scratch, TensorFlow)  
-Unsupervised Learning (K-Means, Anomaly Detection, PCA)  
-Recommender Systems (Collaborative Filtering, Matrix Factorization)  
-Reinforcement Learning (Q-Learning, Bellman Equations) |
+### 🧠 Machine Learning Core Concepts
+
+| Area                 | Techniques / Topics                                                                 |
+|----------------------|--------------------------------------------------------------------------------------|
+| **Supervised Learning**   | Linear Regression, Logistic Regression, Decision Trees, Ensemble Methods            |
+| **Neural Networks**       | Built Feedforward Networks from Scratch, Multiclass Classification, TensorFlow     |
+| **Unsupervised Learning** | K-Means Clustering, Anomaly Detection, Principal Component Analysis (PCA)          |
+| **Recommender Systems**   | Matrix Factorization, Collaborative Filtering                                     |
+| **Reinforcement Learning**| Q-Learning, Bellman Updates                                                        |
 
 ---
 
