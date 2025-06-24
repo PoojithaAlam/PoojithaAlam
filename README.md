@@ -62,7 +62,7 @@ Reinforcement Learning (Q-Learning, Bellman Equations) |
       </a>
     </td>
     <td align="center" width="50%">
-      <h4>🎟️ EventBrite Clone</h4>
+      <h4>🎟️ EventBrite FullStack Application</h4>
       <img src="https://github.com/PoojithaAlam/event_brite/blob/c5224873282bc455b259555f649bf5a4c49cc17b/EventBrite.png?raw=true" width="90%" />
       <br><br>
       <a href="https://github.com/PoojithaAlam/EventBrite_FullStack">
