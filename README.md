@@ -137,7 +137,7 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
 
 ### 📫 Let's Connect
 
-- 📬 Email: poojithaalam@gmail.com
+- 📬 Email: poojaalam0011@gmail.com
 
 ---
 
