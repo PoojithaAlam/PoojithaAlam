@@ -127,6 +127,11 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
 - ✅ [Stanford Machine Learning Specialization – Andrew Ng (Coursera)](https://www.coursera.org/specializations/machine-learning-introduction)
 - ✅ AWS Certified Machine Learning – Specialty
 - ✅ Scrum Alliance Certified Scrum Master
+<br>
+
+<a href="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/tree/main/Certificates">
+  <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/tree/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates" />
+</a>
 
 ---
 
