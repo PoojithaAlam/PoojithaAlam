@@ -129,7 +129,7 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
  
   </a>
   &nbsp; &nbsp;
-  <a href="https://www.credly.com/badges/YOUR_SECOND_BADGE_ID" target="_blank">
+  <a href="">
     <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/Microsoft-Learner-Badge-Guinness-World-Record-Holder.png" alt="Second Certification" width="150"/>
   </a>
 </p>
