@@ -126,12 +126,14 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
 <p align="left">
   <a href="https://www.credly.com/badges/34d9088d-5da4-408e-aceb-12e4be0d9901/public_url">
     <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/aws-certified-machine-learning-engineer-associate.png" alt="First Certification" width="150"/>
+ 
   </a>
   &nbsp; &nbsp;
   <a href="https://www.credly.com/badges/YOUR_SECOND_BADGE_ID" target="_blank">
     <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/Microsoft-Learner-Badge-Guinness-World-Record-Holder.png" alt="Second Certification" width="150"/>
   </a>
 </p>
+
 ---
 
 ### 🏆 Certifications
@@ -145,6 +147,7 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
     <img src="https://img.shields.io/badge/View%20Certificates-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View Certificates" />
   </a>
 </p>
+
 ---
 
 ### 📫 Let's Connect
