@@ -124,7 +124,7 @@ I'm a passionate full stack developer and aspiring ML/AI engineer actively looki
 ### 🎖️ Badges
 
 <p align="left">
-  <a href="https://www.credly.com/badges/YOUR_FIRST_BADGE_ID" target="_blank">
+  <a href="https://www.credly.com/badges/34d9088d-5da4-408e-aceb-12e4be0d9901/public_url">
     <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/aws-certified-machine-learning-engineer-associate.png" alt="First Certification" width="150"/>
   </a>
   &nbsp; &nbsp;
