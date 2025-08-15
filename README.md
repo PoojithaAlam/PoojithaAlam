@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Poojitha Alam</h1>
 <p align="center">
-  💻 Full Stack Developer | 🤖 Aspiring ML/AI Engineer 
+  💻 Full Stack Developer | 🤖 Aspiring ML/AI Software Engineer 
 </p>
 
 ---
